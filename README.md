@@ -1,4 +1,4 @@
-# Developer Profile - DD
+# Developer Profile - DDprog -Dipanjan Dhar
 
 ## About Me
 # Hello! I'm DD, a passionate full stack developer from Bangladesh with expertise 
@@ -13,9 +13,10 @@
 # - CSS
 # - JavaScript
 # - Python
-# - Java
 # - TypeScript
 # - C++
+# - Ruby
+# -Rust
 # - C
 # - C#
 
